@@ -1,0 +1,1 @@
+insert into turistas (nombre, nro_cel, direccion) values ('oscar', '981474747', 'Horacio Patiño 243')
